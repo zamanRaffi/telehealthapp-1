@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme":"telehealthapp",
     "name": "telehealthapp-1",
     "slug": "telehealthapp-1",
     "version": "1.0.0",
